@@ -4,5 +4,5 @@
    <name>katalongit</name>
    <tag></tag>
    <UUID>231e13da-0ffe-4819-aaf4-1dc99d488bb9</UUID>
-   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeout>0</pageLoadTimeout>
 </Project>
